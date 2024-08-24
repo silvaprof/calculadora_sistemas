@@ -1,4 +1,4 @@
-# Calculadora de Sistemas
+# Calculadora de Sistemas de Equações
 
 ## Visão Geral
 
